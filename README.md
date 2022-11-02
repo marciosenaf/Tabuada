@@ -23,7 +23,7 @@ Este projeto é uma aplicação front-end, tem a funcao de multiplicar qualquer 
 
 ```bash
 # clonar repositório
-git clone https://github.com/marciosenaf/jogo-da-velha
+git clone https://github.com/marciosenaf/Tabuada
 
 # executar o projeto
 start index.html
